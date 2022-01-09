@@ -32,3 +32,12 @@ body {
     margin:0 3rem;
     color: white;
 }
+
+.container {
+    width: 100%;
+    display: flex;
+}
+
+.container img {
+    width: 100%;
+}
