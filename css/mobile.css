@@ -45,12 +45,12 @@ body {
     width: 100%;
 }
 
-.c1 img {
+.c1 img{
     width: 100%;
     margin: 3rem 0 0 0;
 }
 
-.c2 figcaption {
+.c2 p {
     text-align: initial;
     margin: 0 .8rem 3rem .8rem;
 }
@@ -60,7 +60,7 @@ body {
     margin: 3rem 0 0 0;
 }
 
-.c4 figcaption {
+.c4 p {
     text-align: initial;
     margin: 0 .8rem 3rem .8rem;
 }
