@@ -41,6 +41,13 @@ body {
     flex-wrap: wrap;
 }
 
+.c1,
+.c2,
+.c3,
+.c4 {
+    width: 100%;
+}
+
 .container img {
     width: 100%;
     margin: 3rem 0 0 0;
