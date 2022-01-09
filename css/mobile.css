@@ -46,12 +46,22 @@ body {
     width: 100%;
 }
 
-.container img {
+.c1 img {
     width: 100%;
     margin: 3rem 0 0 0;
 }
 
-.container figcaption {
+.c2 figcaption {
+    text-align: initial;
+    margin: 0 0 3rem .8rem;
+}
+
+.c3 img {
+    width: 100%;
+    margin: 3rem 0 0 0;
+}
+
+.c4 figcaption {
     text-align: initial;
     margin: 0 0 3rem .8rem;
 }
